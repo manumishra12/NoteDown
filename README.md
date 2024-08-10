@@ -4,7 +4,7 @@
 
 NoteDown is a simple yet powerful note-taking application designed for desktop environments using Electron JS. The application allows users to create, edit, and manage their notes efficiently, providing a seamless experience for organizing thoughts, tasks, and ideas.
 
-<img src="Note.png" alt="Small Image" width="500" height="550">
+<img src="Note.png" alt="Small Image" width="900" height="550">
 
 
 ## Features
